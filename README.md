@@ -1,7 +1,7 @@
 # FlashSparse Artifact for PPoPP'25.
 ## 1. Clone this project.
 ```
-git clone --recursive git
+git clone --recursive git https://github.com/ParCIS/FlashSparse.git
 ```
 + **Requirements**: 
 > + `Ubuntu 16.04+`
