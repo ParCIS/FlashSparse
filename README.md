@@ -42,7 +42,7 @@ The sparse matrices can be downloaded from the SuiteSparse repository, while GNN
 ### Install **`RoDe, Sputnik, GNNAdvisor, GE-SpMM, cuSPARSE, DTC-SpMM and TC-GNN`**: 
 ```
 cd Baseline/
-bash comple.sh
+bash compile.sh
 ```
 
 ## 6. Install GNNs-Framework Baselines.
