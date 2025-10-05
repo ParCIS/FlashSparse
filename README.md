@@ -34,7 +34,7 @@ bash compile.sh
 
 ## 4. Download datasets. (optional)
 ```
-cd dataset/
+cat dataset.txt
 The sparse matrices can be downloaded from the SuiteSparse repository, while GNN-related datasets are available on the official websites of DGL and PyG. After downloading, the matrices can be partitioned and preprocessed using FS_Block_gpu.preprocess_gpu_fs(). The preprocessed results are then used for computation with FlashSparse.(total 515 sparse matrices).
 ``` 
 
