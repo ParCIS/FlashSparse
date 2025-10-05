@@ -1,5 +1,5 @@
 ## FlashSparse: Minimizing Computation Redundancy for Fast Sparse Matrix Multiplications on Tensor Cores
-**FlashSparse is accepted by PPoPP 2025**. See the Arxiv **[preprint version of the paper](https://arxiv.org/abs/2412.11007)**. FlashSparse significantly reduces the computation redundancy for unstructured sparsity (for SpMM and SDDMM) on Tensor Cores through a **Swap-and-Transpose** mapping strategy.
+**FlashSparse is accepted by PPoPP 2025**. See the **[published version of the paper](https://dl.acm.org/doi/10.1145/3710848.3710858)**. FlashSparse significantly reduces the computation redundancy for unstructured sparsity (for SpMM and SDDMM) on Tensor Cores through a **Swap-and-Transpose** mapping strategy.
 ![FlashSparse](FlashSparseThumbnail.png)
 
 ## 1. Clone this project.
