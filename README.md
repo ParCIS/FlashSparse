@@ -29,7 +29,7 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvi
 ## 3. Install **`FlashSparse`**.
 ```
 cd FlashSparse/
-bash comple.sh
+bash compile.sh
 ``` 
 
 ## 4. Download datasets. (optional)
